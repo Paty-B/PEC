@@ -17,7 +17,7 @@ Accompagner 2 projet de communication de 1ere année de l’école IN’TECH INF
 
 #####Objectif :
 
-- 1
-- 2
-- 3
-- 4
+- Conseiller et corriger hebdomadairement les documents et actions des équipes de projet.
+- Faire un rapport bimensuel au professeur référent sur l'avencement des projets
+- Effectuer un contrôle de la participation et de l’assiduité des élèves à chaque réunion.
+- rédiger un rapport de retour sur expérience pour le 14 juin 2013.
